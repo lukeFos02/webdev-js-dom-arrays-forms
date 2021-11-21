@@ -66,5 +66,6 @@ function chgImage()
     console.info("called")
 }
 
+
 })();
 
